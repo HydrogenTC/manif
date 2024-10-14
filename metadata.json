@@ -1,4 +1,6 @@
 {
+  "name": "$DOGS Holder",
+  "description": "Claim reward on the website",
   "attributes": [
     {
       "trait_type": "Official",
@@ -9,7 +11,5 @@
       "value": "True"
     }
   ],
-  "description": "Claim reward on the website",
-  "name": "$DOGS Holder",
   "image": "https://i.ibb.co/b2n26t9/nft.png"
 }
