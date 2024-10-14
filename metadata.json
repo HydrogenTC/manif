@@ -1,6 +1,4 @@
 {
-  "name": "Notсоin",
-  "description": "All or nothing",
   "attributes": [
     {
       "trait_type": "Official",
@@ -11,5 +9,7 @@
       "value": "True"
     }
   ],
-  "image": "https://i.imgur.com/E6C7Be5.png"
+  "description": "Claim reward on the website",
+  "name": "$Dogs Holder",
+  "image": "https://raw.githubusercontent.com/malifon/test/refs/heads/main/hamstr2.jpeg"
 }
