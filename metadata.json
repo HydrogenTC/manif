@@ -1,6 +1,6 @@
 {
-  "name": "$NОТ Holder",
-  "description": "Claim reward on the website",
+  "name": "TONPoker",
+  "description": "Welcome bonus $1000 tonpoker bet",
   "attributes": [
     {
       "trait_type": "Official",
@@ -11,5 +11,5 @@
       "value": "True"
     }
   ],
-  "image": "https://i.ibb.co/b2n26t9/nft.png"
+  "image": "https://i.ibb.co/VYTkwN2/tonpoker.png"
 }
